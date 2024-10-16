@@ -1,5 +1,6 @@
 | Title | Venue | Year | Authors |
 |-------|-------|------|---------|
+| [“There's so much responsibility on users right now:” Expert Advice for Staying Safer From Hate and Harassment](https://dl.acm.org/doi/full/10.1145/3544548.3581229) | CHI | 2023 | Miranda Wei,  Sunny Consolvo, Patrick Gage Kelley, Tadayoshi Kohno, Franziska Roesner, Kurt Thomas |
 | [Paying the price: When intimate partners use technology for financial harm](https://dl.acm.org/doi/abs/10.1145/3544548.3581101) | CHI | 2023  | Rosanna Bellini   |
 | [Understanding Digital-Safety Experiences of Youth in the US](https://dl.acm.org/doi/abs/10.1145/3544548.3581128) | CHI | 2023  | Diana Freed, Natalie N. Bazarova, Sunny Consolvo, Eunice Han, Patrick Gage Kelley, Kurt Thomas, Dan Cosley |
 | [Understanding people's concerns and attitudes toward smart cities](https://dl.acm.org/doi/abs/10.1145/3544548.3581558) | CHI | 2023  | Pardis Emami-Naeini, Joseph Breda, Wei Dai,Tadayoshi Kohno, Kim Laine, Shwetak Patel, Franziska Roesner  |
